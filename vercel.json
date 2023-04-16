@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://music.borui.fun/:match*"
+      "destination": "https://netease-cloud-music-api-rho-mocha.vercel.app/:match*"
     }
   ]
 }
